@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Triargi
 - 👀 I’m interested in Data and Business Analysis
 - 🌱 I’m currently learning Python, SQL, Tableu, and other data analysis tools
-- 💞️ I’m looking to collaborate on Data analytic projects
+- 💞️ I’m looking to collaborate on Data Analytic projects
 - 📫 How to reach me at muhammadtriargi@gmail.com
 
 <!---
